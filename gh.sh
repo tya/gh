@@ -12,7 +12,7 @@ then
     exit 1
 fi
 
-remote="origin"
+remote="ty"
 if [ ! -z "$1" ]
 then
     remote="$1"
